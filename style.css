@@ -1,0 +1,58 @@
+body{
+    font-family: 'Cabin', ;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: steelblue;
+}
+.name-highlight{
+    color:blueviolet
+}
+
+.half-width{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width:100%;
+    
+}
+.top-banner{
+    background-image: url(images/bannerno.1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+section{
+    padding-bottom: 100px;
+    overflow: hidden;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(180deg, lightSalmon, tomato) ;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+}
+.Rashel-world{
+    background-image: url( images/bannerno.3.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+.single-work{
+ width: 30%;
+ float: left;
+}
+.single-work img{
+    width: 100%;
+}
+
